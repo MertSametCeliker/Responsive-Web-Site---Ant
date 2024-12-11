@@ -1,0 +1,253 @@
+[07-Nov-2024 20:47:25 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:25 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:47 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:47 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:48 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:50 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:52 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:47:52 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:48:09 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:48:09 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:48:11 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:48:11 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:49:05 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:49:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:49:50 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:49:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:50:17 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:50:17 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:50:19 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:50:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:52:00 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:52:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:52:23 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:52:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:52:24 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:52:24 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 48
+[07-Nov-2024 20:52:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[07-Nov-2024 20:52:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[07-Nov-2024 20:52:57 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/about.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/about.php on line 231
+[07-Nov-2024 20:53:02 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[07-Nov-2024 20:53:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/about.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/about.php on line 231
+[07-Nov-2024 20:55:05 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 95
+[07-Nov-2024 20:55:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 95
+[07-Nov-2024 20:55:08 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/index.php on line 95
+[07-Nov-2024 20:55:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/index.php:95
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 95
+[07-Nov-2024 20:55:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[07-Nov-2024 20:55:43 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[07-Nov-2024 20:55:51 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[07-Nov-2024 20:56:00 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[07-Nov-2024 20:58:12 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[07-Nov-2024 20:59:16 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/index.php:181
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/index.php on line 181
+[08-Nov-2024 19:41:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on bool in /home/antizmir/public_html/about.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/about.php on line 231
+[08-Nov-2024 20:16:03 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/admin.php on line 223
+[08-Nov-2024 20:16:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/admin.php:223
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/admin.php on line 223
+[08-Nov-2024 20:16:06 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/admin.php on line 223
+[08-Nov-2024 20:16:06 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/admin.php:223
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/admin.php on line 223
+[08-Nov-2024 20:16:08 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/admin.php on line 223
+[08-Nov-2024 20:16:08 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/admin.php:223
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/admin.php on line 223
+[08-Nov-2024 20:18:36 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:36 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:40 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:40 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:42 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:42 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:46 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:46 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:48 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[08-Nov-2024 20:18:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:46:46 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:46:46 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:46:48 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:49 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:49 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:50 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:50 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:50 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:53 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:46:53 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:46:55 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:46:55 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:47:01 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:47:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:47:03 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:47:03 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:48:13 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:48:13 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:48:14 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:48:14 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:48:19 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:48:19 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:48:23 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:48:23 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:48:29 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:48:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/get_fields.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/get_fields.php on line 5
+[09-Nov-2024 13:48:31 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:48:31 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:48:34 Europe/Istanbul] PHP Notice:  Undefined variable: pdo in /home/antizmir/public_html/edit.php on line 25
+[09-Nov-2024 13:48:34 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/antizmir/public_html/edit.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/edit.php on line 25
+[10-Nov-2024 14:23:20 Europe/Istanbul] PHP Notice:  Undefined variable: db in /home/antizmir/public_html/events.php on line 47
+[10-Nov-2024 14:23:20 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/antizmir/public_html/events.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/antizmir/public_html/events.php on line 47
